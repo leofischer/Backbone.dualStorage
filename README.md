@@ -1,4 +1,4 @@
-This project is now dormant, as I no longer work on any project that needs it.
+A fork of lucian1900's Backbone.dualStorage plugin with the intent of provide storage namespaces and more flexible online/offline transitioning.
 
 Backbone dualStorage Adapter v1.0
 =================================
