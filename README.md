@@ -1,4 +1,4 @@
-A fork of lucian1900's Backbone.dualStorage plugin with the intent of provide storage namespaces and more flexible online/offline transitioning.
+A fork of lucian1900's Backbone.dualStorage plugin with the intent of providing storage namespaces and more flexible online/offline transitioning.
 
 Backbone dualStorage Adapter v1.0
 =================================
